@@ -13,7 +13,7 @@ npm i sveltemarquee
 Then import it into your project with:
 
 ```javascript
-import { SvelteMarquee } from 'sveltemarquee';
+import { SvelteSimpleMarquee } from 'sveltsimpleemarquee';
 ```
 
 Then use it with:

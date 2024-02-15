@@ -1,2 +1,2 @@
 // Reexport your entry components here
-export { default as SvelteMarquee } from './SvelteMarquee.svelte';
+export { default as SvelteSimpleMarquee } from './SvelteMarquee.svelte';
